@@ -16,6 +16,30 @@ I am a big fan of C/C++, Qt, JS, Linux and many other programming related things
 ## My Stats 😄 
 ##### Adding code here started in 2022
 
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISsemeon&show_icons=true&count_private=true)
+![Symon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISsemeon&show_icons=true&count_private=true)
+
+## Top Git Languages 😄
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISsemeon&layout=compact)
+
+## Software stack
+
+
+|  N| pic | Name|  
+| ------ |------|------|
+| 1. | <img src="assets/ubuntu.png" width="25px"> | Ubuntu 20.05 | 
+| 2. | <img src="assets/cpp.png" width="25px"> | C++11/14/17 | 
+| 3. | <img src="assets/qt.png" width="25px"> | Qt 5.15, Qt Quick & Qt Creator & Qt Designer| 
+| 4. | <img src="assets/git.png" width="25px"> | Git |
+| 5. | <img src="assets/postgresql.png" width="25px"> | PostgreSQL 11+ | 
+| 7. | <img src="assets/GammaRay.jpeg" width="25px"> | GammaRay | 
+| 8. | <img src="assets/inkscape.png" width="25px"> | Inkscape |
+| 9. | <img src="assets/vscode.png" width="25px"> | VS-Code | 
+| 12. | <img src="assets/js.png" width="30px"> | Javascript | 
+| 13. | <img src="assets/bash.png" width="25px"> | Bash | 
+
+
+
+
+
 
 
