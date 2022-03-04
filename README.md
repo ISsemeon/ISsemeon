@@ -31,11 +31,10 @@ I am a big fan of C/C++, Qt, JS, Linux and many other programming related things
 | 3. | <img src="assets/qt.png" width="25px"> | Qt 5.15, Qt Quick & Qt Creator & Qt Designer| 
 | 4. | <img src="assets/git.png" width="25px"> | Git |
 | 5. | <img src="assets/postgresql.png" width="25px"> | PostgreSQL 11+ | 
-| 7. | <img src="assets/GammaRay.jpeg" width="25px"> | GammaRay | 
-| 8. | <img src="assets/inkscape.png" width="25px"> | Inkscape |
-| 9. | <img src="assets/vscode.png" width="25px"> | VS-Code | 
-| 12. | <img src="assets/js.png" width="30px"> | Javascript | 
-| 13. | <img src="assets/bash.png" width="25px"> | Bash | 
+| 6. | <img src="assets/GammaRay.jpeg" width="25px"> | GammaRay | 
+| 7. | <img src="assets/vscode.png" width="25px"> | VS-Code | 
+| 8. | <img src="assets/js.png" width="30px"> | Javascript | 
+| 9. | <img src="assets/bash.png" width="25px"> | Bash | 
 
 
 
