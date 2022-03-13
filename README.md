@@ -7,7 +7,26 @@
 
 <br/>
 A young, cheerful and enthusiastic engineer from Russia 😄. I am a first year engineering student at the University of Cassino in Italy on a master's degree program.
-I am a big fan of C/C++, Qt, JS, Linux and many other programming related things. As a bachelor's student, at <a href="https://www.stc-spb.ru/">work</a> i participated in the creation of various kinds of monitoring complexes for the gsm/umts/lte mobile network and 802.11 standard networks. Learned to work with embedded systems, create user interfaces (wigets/qml) Writing different levels of complexity of business logic for managing complexes, modules for interacting with networks, databases and geolocation systems, and so on.
+I am a big fan of C/C++, Qt, JS, Linux and many other programming related things. As a bachelor's student, at <a href="https://www.stc-spb.ru/">work</a> i participated in the creation of various kinds of monitoring complexes for the gsm/umts/lte mobile network and 802.11 standard networks. During my work in this company, I was engaged in the development of software and hardware.The main projects were the creation of a complex for monitoring mobile networks of various standards and a complex for 
+monitoring 802.11 networks. 
+
+
+##### My main tasks were:
+
+* Writing GUI using qt-api qt/qml mvc etc
+* Writing data processing logic in the application and linking with gui
+* Working with third-party libraries : GUI, web-channel, maps, embedded
+* Development of the business logic of the stm32 microcontroller, deployment of the operating system on it (freeRtos)
+* Writing protocols for interaction and encryption over a communication channel for compatibility of different versions of transceivers
+* Writing Drivers for the Interaction of the Board Developed by LLC STC and Third Party Equipment (Special Control Keyboard)
+* Writing application plugins to interact with the database (PostgreSQL)
+* Writing third-party libraries to use different modules for different types of data transfer (over the cabel, through the server, 802.11)
+
+### My strengths include: 
+* Perseverance
+* The ability to google and to find 
+* Good and high-quality understanding of issues
+* The Famociest one - great love for programming!
 <br/>
 <br/>
 
