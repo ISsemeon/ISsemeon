@@ -13,14 +13,14 @@ monitoring 802.11 networks.
 
 ##### My main tasks were:
 
-* Writing GUI using qt-api qt/qml mvc etc
-* Writing data processing logic in the application and linking with gui
-* Working with third-party libraries : GUI, web-channel, maps, embedded
+* Design GUI using qt-api qt/qml mvc etc
+* Development data processing logic in the application and linking with gui
+* Development with third-party libraries : GUI, web-channel, maps, embedded
 * Development of the business logic of the stm32 microcontroller, deployment of the operating system on it (freeRtos)
-* Writing protocols for interaction and encryption over a communication channel for compatibility of different versions of transceivers
-* Writing Drivers for the Interaction of the Board Developed by LLC STC and Third Party Equipment (Special Control Keyboard)
-* Writing application plugins to interact with the database (PostgreSQL)
-* Writing third-party libraries to use different modules for different types of data transfer (over the cabel, through the server, 802.11)
+* Design protocols for interaction and encryption over a communication channel for compatibility of different versions of transceivers
+* Development Drivers for the Interaction of the Board Developed by LLC STC and Third Party Equipment (Special Control Keyboard)
+* Development application plugins to interact with the database (PostgreSQL)
+* Development third-party libraries to use different modules for different types of data transfer (over the cabel, through the server, 802.11)
 
 ### My strengths include: 
 * Perseverance
