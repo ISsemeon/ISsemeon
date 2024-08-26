@@ -4,60 +4,104 @@
 
 <img align="right" alt="GIF" src="assets/giphy.gif" width="450" height=width/1.5625 />
 
+# Semen Istomin
 
-<br/>
-A young, cheerful and enthusiastic engineer from Russia 😄. I am a first year engineering student at the University of Cassino in Italy on a master's degree program.
-I am a big fan of C/C++, Qt, JS, Linux and many other programming related things. As a bachelor's student, at <a href="https://www.stc-spb.ru/">work</a> i participated in the creation of various kinds of monitoring complexes for the gsm/umts/lte mobile network and 802.11 standard networks. During my work in this company, I was engaged in the development of software and hardware.The main projects were the creation of a complex for monitoring mobile networks of various standards and a complex for 
-monitoring 802.11 networks. 
+**Senior C++ Developer**
 
+📍 Marina di Carrara, Italy  
+📧 [semeistomin@gmail.com](mailto:semeistomin@gmail.com)  
+📞 +39 35 1822 6197  
+📱 WhatsApp: +7 950 002 53 91  
+🔗 [LinkedIn](https://www.linkedin.com/in/semeon-istomin)  
+🔗 [GitHub](https://github.com/ISsemeon)  
+🔗 [Telegram](https://t.me/IstSimone)
 
-##### My main tasks were:
+---
 
-* Design GUI using qt-api qt/qml mvc etc
-* Development data processing logic in the application and linking with gui
-* Development with third-party libraries : GUI, web-channel, maps, embedded
-* Development of the business logic of the stm32 microcontroller, deployment of the operating system on it (freeRtos)
-* Design protocols for interaction and encryption over a communication channel for compatibility of different versions of transceivers
-* Development Drivers for the Interaction of the Board Developed by LLC STC and Third Party Equipment (Special Control Keyboard)
-* Development application plugins to interact with the database (PostgreSQL)
-* Development third-party libraries to use different modules for different types of data transfer (over the cabel, through the server, 802.11)
+## Professional Experience
 
-### My strengths include: 
-* Perseverance
-* The ability to google and to find 
-* Good and high-quality understanding of issues
-* The Famociest one - great love for programming!
-<br/>
-<br/>
+### Senior C++/Qt Developer
+**TWS Group, TWSAutomation, AvMap**  
+*Apr 2022 – Present | Marina di Carrara, Italy*
 
+- **Farm-navigator Development:** Designed and developed a sophisticated system for automating tractor fieldwork. [More Info](https://www.avmap.it/AgricolturaIntelligente)
+- **Software Architecture & GUI:** Engineered user interfaces and system architecture using Figma and QML, focusing on usability and performance.
+- **Control Modules:** Implemented and integrated control modules, including object management, translation systems, auto-steer, synchronization, GUI control, and AWS Kinesis for remote work.
+- **Project Management:** Utilized Trello, Jira, GitLab Issues, and Redmine for efficient project tracking and management.
+- **CI/CD:** Established and maintained continuous integration and delivery workflows with GitLab, CMake, and Bash.
+- **Testing & Documentation:** Developed unit and integration tests with gtest and qtest; documented systems using Doxygen.
 
+### C++ Programming Engineer
+**LLC STC**  
+*Feb 2019 – Oct 2021 | Saint-Petersburg, Russia*
 
-## My Stats 😄 
-##### Adding code here started in 2022
+- **Radiomonitoring Systems:** Developed advanced equipment for GSM/UMTS/LTE and 802.11 network monitoring.
+- **GUI & Architecture:** Designed intuitive user interfaces and system architecture with Qt/QML.
+- **GIS API Integration:** Integrated GIS APIs for spatial data processing, enhancing data visualization and analysis.
+- **Database Optimization:** Improved database performance and architecture with PostgreSQL.
+- **Embedded Systems:** Created software for STM32 microcontrollers and developed communication protocols.
+- **Build Automation:** Wrote scripts for automated build processes, deployment, and code documentation.
 
-![Symon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISsemeon&show_icons=true&count_private=true)
+---
 
-## Top Git Languages 😄
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISsemeon&layout=compact)
+## Education
 
-## Software stack
+**Master’s Degree in Communication Engineering**  
+*University of Cassino*  
+*Sep 2021 – Present | Cassino, Italy*
 
+**Bachelor’s Degree in Mobile Networks**  
+*The Bonch-Bruevich Saint Petersburg State University of Telecommunications*  
+*Sep 2017 – Aug 2021 | Saint-Petersburg, Russia*
 
-|  N| pic | Name|  
-| ------ |------|------|
-| 1. | <img src="assets/ubuntu.png" width="25px"> | Ubuntu 20.05 | 
-| 2. | <img src="assets/cpp.png" width="25px"> | C++11/14/17 | 
-| 3. | <img src="assets/qt.png" width="25px"> | Qt 5.15, Qt Quick & Qt Creator & Qt Designer| 
-| 4. | <img src="assets/git.png" width="25px"> | Git |
-| 5. | <img src="assets/postgresql.png" width="25px"> | PostgreSQL 11+ | 
-| 6. | <img src="assets/GammaRay.jpeg" width="25px"> | GammaRay | 
-| 7. | <img src="assets/vscode.png" width="25px"> | VS-Code | 
-| 8. | <img src="assets/js.png" width="30px"> | Javascript | 
-| 9. | <img src="assets/bash.png" width="25px"> | Bash | 
+---
 
+## Key Skills
 
+- **Programming Languages:**
+  - **C++:** Proficient in high-performance, multi-threaded software development.
+  - **JavaScript/QML:** Skilled in creating interactive user interfaces and web applications.
+  - **Kotlin:** Experienced in Android development and WebRTC integration.
 
+- **Frameworks and Libraries:**
+  - **Qt:** Expert in building cross-platform applications and graphical interfaces.
+  - **Boost:** Utilizes advanced C++ libraries for enhanced functionality.
+  - **OpenCV:** Applied for image processing and computer vision tasks.
+  - **libcurl:** Experienced in handling HTTP requests and data transfer.
 
+- **Development Tools:**
+  - **CMake:** Competent in build and project management.
+  - **Conan:** Proficient in dependency management for C++.
+  - **GitLab CI/CD:** Experienced with continuous integration and delivery.
+  - **Bash:** Skilled in scripting and process automation.
 
+- **Databases:**
+  - **PostgreSQL:** Expertise in database design and management.
 
+- **Operating Systems:**
+  - **Linux:** Experienced in Linux development and administration.
 
+- **Additional Technologies:**
+  - **AWS/Azure:** Knowledgeable in cloud platforms for deployment and scalability.
+  - **WebRTC:** Developed real-time communication applications.
+  - **REST API:** Proficient in integrating and working with RESTful APIs.
+
+- **Design Tools:**
+  - **Figma:** Skilled in interface design and prototyping.
+  - **Tilda:** Experienced in creating web and landing pages.
+
+---
+
+## Languages
+
+- **English:** Advanced
+- **Russian:** Native
+- **Italian:** Intermediate
+
+---
+
+## Projects and Technologies
+
+- **Kotlin & WebRTC:** Developed a remote device management application utilizing WebRTC with Amazon Kinesis for real-time communication.
+- **UI/UX Design:** Applied design principles with Figma and Tilda to enhance user experiences in QML projects.
+- **REST API Integration:** Integrated and utilized REST APIs for various projects, improving service interactions and data handling.
