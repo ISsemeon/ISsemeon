@@ -2,8 +2,6 @@
 
 [![Linkedin: Symon Istomin](https://img.shields.io/badge/-Symon%20Istomin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/semeon-istomin-343361225/)](https://www.linkedin.com/in/semeon-istomin-343361225/)
 
-<img align="right" alt="GIF" src="assets/giphy.gif" width="450" height=width/1.5625 />
-
 # Semen Istomin
 
 **Senior C++ Developer**
@@ -11,7 +9,6 @@
 📍 Marina di Carrara, Italy  
 📧 [semeistomin@gmail.com](mailto:semeistomin@gmail.com)  
 📞 +39 35 1822 6197  
-📱 WhatsApp: +7 950 002 53 91  
 🔗 [LinkedIn](https://www.linkedin.com/in/semeon-istomin)  
 🔗 [GitHub](https://github.com/ISsemeon)  
 🔗 [Telegram](https://t.me/IstSimone)
